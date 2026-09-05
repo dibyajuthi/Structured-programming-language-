@@ -7,7 +7,7 @@ int main(){
 
     printf("Student ID:%d\n", stdID);
     printf("Student age:%d\n", stdAge);
-    printf("Student fee:%f\n", stdfee);
+    printf("Student fee:%f\n", stdFee);
     printf("Student grade:%c", stdGrade);
 
     return 0;
