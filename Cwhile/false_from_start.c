@@ -4,7 +4,7 @@ int main()
     int i=0;
 
     do{
-        printf("%d\n", i);
+        printf("i is %d\n", i);
         i++;
     }
 
