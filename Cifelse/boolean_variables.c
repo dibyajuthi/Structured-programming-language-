@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<stdbool.h>
+int main()
+{
+    int x=20,y=18;
+
+    bool isGreater=x>y;
+
+    if(isGreater){
+        printf("x is greater than y");
+    }
+    
+    return 0;
+}
