@@ -8,6 +8,11 @@ So, take a deep breath... 🌱
 and let's dive into the main part! 🚀
 
 
+## 👧🏻 **Student's Personal Info**
+**Dibyajuthi Paul**
+CSE | Sylhet Engineering College, Sylhet
+
+
 ## 📖 About
 This repository is a collection of my C programming practices, exercises, and experiments as I begin my journey into the world of programming. Here, I will be exploring the fundamentals of C, understanding different programming concepts, and improving my problem-solving skills through regular practice.
 
