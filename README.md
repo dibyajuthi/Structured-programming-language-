@@ -10,7 +10,7 @@ and let's dive into the main part! 🚀
 
 ## 👧🏻 **Student's Personal Info**
 **Dibyajuthi Paul**
-CSE | Sylhet Engineering College, Sylhet
+CSE'19 |2025 3315 45| Sylhet Engineering College, Sylhet
 
 
 ## 📖 About
