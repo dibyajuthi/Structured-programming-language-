@@ -1,3 +1,4 @@
+#include<stdio.h>
 union myUnion {
     int myNum;
     char myLetter;
